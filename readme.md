@@ -8,6 +8,10 @@ A aula introdutória explora a complexidade e a ubiquidade dos sistemas operacio
 
 Eu deixei tbm os livros indicados nesta aula, na pasta `Lecture 1`
 
+E na pasta `Labs` você encontra o primeiro laboratório, que é uma introdução ao curso.
+
+![Learn](./Labs/1.png)
+
 # Playlist
 
 https://www.youtube.com/watch?v=pPzVV2kkGHc&list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC&index=1&t=1738s
