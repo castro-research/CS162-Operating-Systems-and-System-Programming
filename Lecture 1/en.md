@@ -462,7 +462,12 @@ uh to the network which i think you need to use a virtual vpn to do that but you
 
 uh considered a required book you should try to get a copy even if it's only an e-book there's also some research papers that are on the resources page that i've put up there and we'll actually be talking about some research as we get later in the term so use that as a as a good resource so the syllabus 
 
+![books](2.png)
+
+
 uh well we're going to start talking about how to navigate as a system programmer we're going to talk about processes io networks virtual machines concurrency is going to be a big part of the early parts of this class so how do the threads work how does scheduling locks deadlock scalability fairness how's that all work we'll talk about where address spaces come from and how to make it work so we'll talk about virtual memory and how to take the mechanisms and synthesize them into interesting security policies so virtual memory address translation protection sharing we'll talk about how file systems work so 
+
+![syllabus](1.png)
 
 uh we talk about device drivers and file objects and storage and 
 

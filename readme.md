@@ -6,6 +6,8 @@ Lecture 1 - O que é um sistema operacional?
 
 A aula introdutória explora a complexidade e a ubiquidade dos sistemas operacionais na tecnologia moderna, desde a internet global até dispositivos de pequena escala. O professor descreve um sistema operacional como um "ilusionista" que simplifica a interação com o hardware, um "árbitro" que gerencia recursos e proteção, e a "cola" que oferece serviços essenciais. A discussão também aborda a evolução da computação, o surgimento de múltiplos núcleos e a natureza intrínseca da complexidade em sistemas distribuídos, enfatizando a importância do curso para futuros engenheiros e desenvolvedores de software.
 
+Eu deixei tbm os livros indicados nesta aula, na pasta `Lecture 1`
+
 # Playlist
 
 https://www.youtube.com/watch?v=pPzVV2kkGHc&list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC&index=1&t=1738s
